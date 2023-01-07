@@ -1,8 +1,8 @@
-Login_Invalid_Password = "32454hfr6"
+Login_Invalid_Password = "32456745"
 Facebook_Web_Address="https://www.facebook.com"
-Login_Valid_Email="rutheyove@gmail.com"
-Login_Invalid_Email="utheyove@gmail.com"
-Login_Valid_Password="eyove1"
+Login_Valid_Email="reyo@gmail.com"
+Login_Invalid_Email="uthee@gmail.com"
+Login_Valid_Password="sdgfhdf"
 # Facebook Login Paths
 # Facebook Login Paths.
 Input_Login_Email_Address_Path = "//input[@id='email']"
