@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from time import sleep
-from Facebook.Base_Test.Locators import *
+from Mini_Project_Selenium.Facebook.Base_Test.Locators import *
 def test_Facebook_ForgetPassword_Functionality_with_Valid_Email():
     driver = webdriver.Chrome()
     driver.get(Facebook_Web_Address)

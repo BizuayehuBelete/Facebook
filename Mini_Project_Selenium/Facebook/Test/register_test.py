@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from Facebook.Base_Test.Locators import *
+from Mini_Project_Selenium.Facebook.Base_Test.Locators import *
 from time import sleep
 def test_Facebook_Validate_Registering_with_Valid_information_by_providing_all_the_fields():
     driver = webdriver.Chrome()

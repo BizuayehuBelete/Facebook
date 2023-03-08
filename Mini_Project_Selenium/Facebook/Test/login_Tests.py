@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from Facebook.Base_Test.Locators import *
+from Mini_Project_Selenium.Facebook.Base_Test.Locators import *
 from time import sleep
 def test_Facebook_Login_Functionality_with_Valid_Email_and_Password():
     driver = webdriver.Chrome()
